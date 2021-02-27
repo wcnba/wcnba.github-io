@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wcnba.github.io</id>
     <title>FLCR</title>
-    <updated>2021-02-27T05:24:28.774Z</updated>
+    <updated>2021-02-27T05:43:53.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wcnba.github.io"/>
     <link rel="self" href="https://wcnba.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://wcnba.github.io/images/avatar.png</logo>
     <icon>https://wcnba.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, FLCR</rights>
+    <entry>
+        <title type="html"><![CDATA[交流讨论区]]></title>
+        <id>https://wcnba.github.io/IdNtyazTn/</id>
+        <link href="https://wcnba.github.io/IdNtyazTn/">
+        </link>
+        <updated>2021-02-27T05:28:35.000Z</updated>
+        <summary type="html"><![CDATA[<pre><code>由于本论坛暂未开启文章写作功能，so大家如有好的学习资料或资源分享的话，可在此篇文章评论区下共同交流分享！
+</code></pre>
+]]></summary>
+        <content type="html"><![CDATA[<pre><code>由于本论坛暂未开启文章写作功能，so大家如有好的学习资料或资源分享的话，可在此篇文章评论区下共同交流分享！
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小爱定制开机动画]]></title>
         <id>https://wcnba.github.io/JZIoG_OfU/</id>
@@ -38,7 +51,8 @@
 9.增加了网页点击特效。<br>
 10.文章排版优化。<br>
 11.网站默认语言修改。<br>
-12.增加了网站访问量统计。</p>
+12.增加了网站访问量统计。<br>
+13.稳定性优化。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>2021/2/26<br>
 1.完善了网站阅读功能。<br>
@@ -55,7 +69,8 @@
 9.增加了网页点击特效。<br>
 10.文章排版优化。<br>
 11.网站默认语言修改。<br>
-12.增加了网站访问量统计。</p>
+12.增加了网站访问量统计。<br>
+13.稳定性优化。</p>
 ]]></content>
     </entry>
     <entry>
@@ -64,11 +79,13 @@
         <link href="https://wcnba.github.io/2X8nufBqm/">
         </link>
         <updated>2021-02-26T13:37:50.000Z</updated>
-        <summary type="html"><![CDATA[<p>欢迎大家来到此网站，本网站会为大家分享技术学习干货供各位讨论交流😊，还请各位持续关注，也可动动小手将此网站分享给朋友收藏哦！<br>
-<img src="https://wcnba.github.io/post-images/1614347224565.jpg" alt="" loading="lazy"></p>
+        <summary type="html"><![CDATA[<pre><code>欢迎大家来到此网站，本网站会为大家分享技术学习干货供各位讨论交流😊，还请各位持续关注，也可动动小手将此网站分享给朋友收藏哦！
+</code></pre>
+<figure data-type="image" tabindex="1"><img src="https://wcnba.github.io/post-images/1614347224565.jpg" alt="" loading="lazy"></figure>
 ]]></summary>
-        <content type="html"><![CDATA[<p>欢迎大家来到此网站，本网站会为大家分享技术学习干货供各位讨论交流😊，还请各位持续关注，也可动动小手将此网站分享给朋友收藏哦！<br>
-<img src="https://wcnba.github.io/post-images/1614347224565.jpg" alt="" loading="lazy"></p>
+        <content type="html"><![CDATA[<pre><code>欢迎大家来到此网站，本网站会为大家分享技术学习干货供各位讨论交流😊，还请各位持续关注，也可动动小手将此网站分享给朋友收藏哦！
+</code></pre>
+<figure data-type="image" tabindex="1"><img src="https://wcnba.github.io/post-images/1614347224565.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
